@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/laloc/esp/projects_tf/person_detection/build/CMakeFiles/bootloader
+/home/laloc/esp/projects_tf/person_detection/build/CMakeFiles/bootloader.rule
+/home/laloc/esp/projects_tf/person_detection/build/CMakeFiles/bootloader-complete.rule
+/home/laloc/esp/projects_tf/person_detection/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/laloc/esp/projects_tf/person_detection/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/laloc/esp/projects_tf/person_detection/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/laloc/esp/projects_tf/person_detection/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/laloc/esp/projects_tf/person_detection/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/laloc/esp/projects_tf/person_detection/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/laloc/esp/projects_tf/person_detection/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

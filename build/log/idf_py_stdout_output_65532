@@ -1,0 +1,840 @@
+[0;32mI (48420) UART_RX: Waiting............ [0m
+
+[0;32mI (48440) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (49440) UART_RX: Waiting............ [0m
+
+[0;32mI (49460) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (50460) UART_RX: Waiting............ [0m
+
+[0;32mI (50480) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (51480) UART_RX: Waiting............ [0m
+
+[0;32mI (51500) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (52500) UART_RX: Waiting............ [0m
+
+[0;32mI (52520) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (53520) UART_RX: Waiting............ [0m
+
+[0;32mI (53540) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (54540) UART_RX: Waiting............ [0m
+
+[0;32mI (54560) UART_RX: Received data: [0m�?
+[0;32mI (54560) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (55560) UART_RX: Waiting............ [0m
+
+[0;32mI (55580) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (56580) UART_RX: Waiting............ [0m
+
+[0;32mI (56600) UART_RX: Received data: y�?[0m
+[0;32mI (56600) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57600) UART_RX: Waiting............ [0m
+
+[0;32mI (57620) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58620) UART_RX: Waiting............ [0m
+
+[0;32mI (58640) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59640) UART_RX: Waiting............ [0m
+
+[0;32mI (59660) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60660) UART_RX: Waiting............ [0m
+
+[0;32mI (60680) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61680) UART_RX: Waiting............ [0m
+
+[0;32mI (61700) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62700) UART_RX: Waiting............ [0m
+
+[0;32mI (62720) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63720) UART_RX: Waiting............ [0m
+
+[0;32mI (63740) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64740) UART_RX: Waiting............ [0m
+
+[0;32mI (64760) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65760) UART_RX: Waiting............ [0m
+
+[0;32mI (65780) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66780) UART_RX: Waiting............ [0m
+
+[0;32mI (66800) UART_RX: Received data: y�?[0m
+[0;32mI (66800) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67800) UART_RX: Waiting............ [0m
+
+[0;32mI (67820) UART_RX: Received data: y�?[0m
+[0;32mI (67820) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68820) UART_RX: Waiting............ [0m
+
+[0;32mI (68840) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69840) UART_RX: Waiting............ [0m
+
+[0;32mI (69860) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70860) UART_RX: Waiting............ [0m
+
+[0;32mI (70880) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (71880) UART_RX: Waiting............ [0m
+
+[0;32mI (71900) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (72900) UART_RX: Waiting............ [0m
+
+[0;32mI (72920) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (73920) UART_RX: Waiting............ [0m
+
+[0;32mI (73940) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (74940) UART_RX: Waiting............ [0m
+
+[0;32mI (74960) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (75960) UART_RX: Waiting............ [0m
+
+[0;32mI (75980) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (76980) UART_RX: Waiting............ [0m
+
+[0;32mI (77000) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (78000) UART_RX: Waiting............ [0m
+
+[0;32mI (78020) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (79020) UART_RX: Waiting............ [0m
+
+[0;32mI (79040) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (80040) UART_RX: Waiting............ [0m
+
+[0;32mI (80060) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (81060) UART_RX: Waiting............ [0m
+
+[0;32mI (81080) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (82080) UART_RX: Waiting............ [0m
+
+[0;32mI (82100) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (83100) UART_RX: Waiting............ [0m
+
+[0;32mI (83120) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (84120) UART_RX: Waiting............ [0m
+
+[0;32mI (84140) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (85140) UART_RX: Waiting............ [0m
+
+[0;32mI (85160) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (86160) UART_RX: Waiting............ [0m
+
+[0;32mI (86180) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (87180) UART_RX: Waiting............ [0m
+
+[0;32mI (87200) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (88200) UART_RX: Waiting............ [0m
+
+[0;32mI (88220) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (89220) UART_RX: Waiting............ [0m
+
+[0;32mI (89240) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (90240) UART_RX: Waiting............ [0m
+
+[0;32mI (90260) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (91260) UART_RX: Waiting............ [0m
+
+[0;32mI (91280) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (92280) UART_RX: Waiting............ [0m
+
+[0;32mI (92300) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (93300) UART_RX: Waiting............ [0m
+
+[0;32mI (93320) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (94320) UART_RX: Waiting............ [0m
+
+[0;32mI (94340) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (95340) UART_RX: Waiting............ [0m
+
+[0;32mI (95360) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (96360) UART_RX: Waiting............ [0m
+
+[0;32mI (96380) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (97380) UART_RX: Waiting............ [0m
+
+[0;32mI (97400) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (98400) UART_RX: Waiting............ [0m
+
+[0;32mI (98420) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (99420) UART_RX: Waiting............ [0m
+
+[0;32mI (99440) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (100440) UART_RX: Waiting............ [0m
+
+[0;32mI (100460) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (101460) UART_RX: Waiting............ [0m
+
+[0;32mI (101480) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (102480) UART_RX: Waiting............ [0m
+
+[0;32mI (102500) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (103500) UART_RX: Waiting............ [0m
+
+[0;32mI (103520) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (104520) UART_RX: Waiting............ [0m
+
+[0;32mI (104540) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (105540) UART_RX: Waiting............ [0m
+
+[0;32mI (105560) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (106560) UART_RX: Waiting............ [0m
+
+[0;32mI (106580) UART_RX: Received data: �?[0m
+[0;32mI (106580) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (107580) UART_RX: Waiting............ [0m
+
+[0;32mI (107600) UART_RX: Received data: [0m
+[0;32mI (107600) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (108600) UART_RX: Waiting............ [0m
+
+[0;32mI (108630) UART_RX: Received data: [0m
+[0;32mI (108630) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (109630) UART_RX: Waiting............ [0m
+
+[0;32mI (109650) UART_RX: Received data: [0m
+[0;32mI (109650) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (110650) UART_RX: Waiting............ [0m
+
+[0;32mI (110670) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (111670) UART_RX: Waiting............ [0m
+
+[0;32mI (111690) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (112690) UART_RX: Waiting............ [0m
+
+[0;32mI (112710) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (113710) UART_RX: Waiting............ [0m
+
+[0;32mI (113730) UART_RX: Received data: �?[0m
+[0;32mI (113730) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (114730) UART_RX: Waiting............ [0m
+
+[0;32mI (114750) UART_RX: Received data: ?[0m
+[0;32mI (114750) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (115750) UART_RX: Waiting............ [0m
+
+[0;32mI (115770) UART_RX: Received data: [0m
+[0;32mI (115770) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (116770) UART_RX: Waiting............ [0m
+
+[0;32mI (116790) UART_RX: Received data: [0m
+[0;32mI (116790) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (117790) UART_RX: Waiting............ [0m
+
+[0;32mI (117810) UART_RX: Received data: [0m
+[0;32mI (117810) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (118810) UART_RX: Waiting............ [0m
+
+[0;32mI (118830) UART_RX: Received data: �?[0m
+[0;32mI (118830) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (119830) UART_RX: Waiting............ [0m
+
+[0;32mI (119850) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (120850) UART_RX: Waiting............ [0m
+
+[0;32mI (120870) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (121870) UART_RX: Waiting............ [0m
+
+[0;32mI (121890) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (122890) UART_RX: Waiting............ [0m
+
+[0;32mI (122910) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (123910) UART_RX: Waiting............ [0m
+
+[0;32mI (123930) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (124930) UART_RX: Waiting............ [0m
+
+[0;32mI (124950) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (125950) UART_RX: Waiting............ [0m
+
+[0;32mI (125970) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (126970) UART_RX: Waiting............ [0m
+
+[0;32mI (126990) UART_TX: Sending............ Hello ESP32[0m
+
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:6592
+load:0x40078000,len:16676
+ho 0 tail 12 room 4
+load:0x40080400,len:4
+load:0x40080404,len:4268
+entry 0x40080658
+[0;32mI (31) boot: ESP-IDF v5.4-dev-3602-ga97a7b0962 2nd stage bootloader[0m
+[0;32mI (31) boot: compile time Oct 24 2024 19:56:56[0m
+[0;32mI (31) boot: Multicore bootloader[0m
+[0;32mI (34) boot: chip revision: v3.1[0m
+[0;32mI (37) qio_mode: Enabling default flash chip QIO[0m
+[0;32mI (41) boot.esp32: SPI Speed      : 80MHz[0m
+[0;32mI (45) boot.esp32: SPI Mode       : QIO[0m
+[0;32mI (49) boot.esp32: SPI Flash Size : 4MB[0m
+[0;32mI (52) boot: Enabling RNG early entropy source...[0m
+[0;32mI (57) boot: Partition Table:[0m
+[0;32mI (59) boot: ## Label            Usage          Type ST Offset   Length[0m
+[0;32mI (66) boot:  0 nvs              WiFi data        01 02 00009000 00006000[0m
+[0;32mI (72) boot:  1 phy_init         RF data          01 01 0000f000 00001000[0m
+[0;32mI (79) boot:  2 factory          factory app      00 00 00010000 00300000[0m
+[0;32mI (85) boot: End of partition table[0m
+[0;32mI (88) esp_image: segment 0: paddr=00010020 vaddr=3f400020 size=1b39ach (1784236) map[0m
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:6592
+load:0x40078000,len:16676
+ho 0 tail 12 room 4
+load:0x40080400,len:4
+load:0x40080404,len:4268
+entry 0x40080658
+[0;32mI (31) boot: ESP-IDF v5.4-dev-3602-ga97a7b0962 2nd stage bootloader[0m
+[0;32mI (31) boot: compile time Oct 24 2024 19:56:56[0m
+[0;32mI (31) boot: Multicore bootloader[0m
+[0;32mI (34) boot: chip revision: v3.1[0m
+[0;32mI (37) qio_mode: Enabling default flash chip QIO[0m
+[0;32mI (41) boot.esp32: SPI Speed      : 80MHz[0m
+[0;32mI (45) boot.esp32: SPI Mode       : QIO[0m
+[0;32mI (49) boot.esp32: SPI Flash Size : 4MB[0m
+[0;32mI (52) boot: Enabling RNG early entropy source...[0m
+[0;32mI (57) boot: Partition Table:[0m
+[0;32mI (59) boot: ## Label            Usage          Type ST Offset   Length[0m
+[0;32mI (66) boot:  0 nvs              WiFi data        01 02 00009000 00006000[0m
+[0;32mI (72) boot:  1 phy_init         RF data          01 01 0000f000 00001000[0m
+[0;32mI (79) boot:  2 factory          factory app      00 00 00010000 00300000[0m
+[0;32mI (85) boot: End of partition table[0m
+[0;32mI (88) esp_image: segment 0: paddr=00010020 vaddr=3f400020 size=1b39ach (1784236) map[0m
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:6592
+load:0x40078000,len:16676
+ho 0 tail 12 room 4
+load:0x40080400,len:4
+load:0x40080404,len:4268
+entry 0x40080658
+[0;32mI (31) boot: ESP-IDF v5.4-dev-3602-ga97a7b0962 2nd stage bootloader[0m
+[0;32mI (31) boot: compile time Oct 24 2024 19:56:56[0m
+[0;32mI (31) boot: Multicore bootloader[0m
+[0;32mI (34) boot: chip revision: v3.1[0m
+[0;32mI (37) qio_mode: Enabling default flash chip QIO[0m
+[0;32mI (41) boot.esp32: SPI Speed      : 80MHz[0m
+[0;32mI (45) boot.esp32: SPI Mode       : QIO[0m
+[0;32mI (49) boot.esp32: SPI Flash Size : 4MB[0m
+[0;32mI (52) boot: Enabling RNG early entropy source...[0m
+[0;32mI (57) boot: Partition Table:[0m
+[0;32mI (59) boot: ## Label            Usage          Type ST Offset   Length[0m
+[0;32mI (66) boot:  0 nvs              WiFi data        01 02 00009000 00006000[0m
+[0;32mI (72) boot:  1 phy_init         RF data          01 01 0000f000 00001000[0m
+[0;32mI (79) boot:  2 factory          factory app      00 00 00010000 00300000[0m
+[0;32mI (85) boot: End of partition table[0m
+[0;32mI (88) esp_image: segment 0: paddr=00010020 vaddr=3f400020 size=1b39ach (1784236) map[0m
+[0;32mI (552) esp_image: segment 1: paddr=001c39d4 vaddr=3ff80000 size=00018h (    24) load[0m
+[0;32mI (552) esp_image: segment 2: paddr=001c39f4 vaddr=3ffb0000 size=0346ch ( 13420) load[0m
+[0;32mI (559) esp_image: segment 3: paddr=001c6e68 vaddr=40080000 size=091b0h ( 37296) load[0m
+[0;32mI (574) esp_image: segment 4: paddr=001d0020 vaddr=400d0020 size=31aech (203500) map[0m
+[0;32mI (626) esp_image: segment 5: paddr=00201b14 vaddr=400891b0 size=07380h ( 29568) load[0m
+[0;32mI (644) boot: Loaded app from partition at offset 0x10000[0m
+[0;32mI (644) boot: Disabling RNG early entropy source...[0m
+[0;32mI (654) quad_psram: This chip is ESP32-D0WD[0m
+[0;32mI (654) esp_psram: Found 8MB PSRAM device[0m
+[0;32mI (654) esp_psram: Speed: 80MHz[0m
+[0;32mI (654) esp_psram: PSRAM initialized, cache is in low/high (2-core) mode.[0m
+[0;33mW (661) esp_psram: Virtual address not enough for PSRAM, map as much as we can. 4MB is mapped[0m
+[0;32mI (670) cpu_start: Multicore app[0m
+[0;32mI (1139) esp_psram: SPI SRAM memory test OK[0m
+[0;32mI (1147) cpu_start: Pro cpu start user code[0m
+[0;32mI (1147) cpu_start: cpu freq: 240000000 Hz[0m
+[0;32mI (1147) app_init: Application information:[0m
+[0;32mI (1147) app_init: Project name:     person_detection[0m
+[0;32mI (1152) app_init: App version:      1[0m
+[0;32mI (1156) app_init: Compile time:     Oct 24 2024 19:57:09[0m
+[0;32mI (1161) app_init: ELF file SHA256:  6ce238d3e...[0m
+[0;32mI (1165) app_init: ESP-IDF:          v5.4-dev-3602-ga97a7b0962[0m
+[0;32mI (1171) efuse_init: Min chip rev:     v0.0[0m
+[0;32mI (1175) efuse_init: Max chip rev:     v3.99 [0m
+[0;32mI (1179) efuse_init: Chip rev:         v3.1[0m
+[0;32mI (1183) heap_init: Initializing. RAM available for dynamic allocation:[0m
+[0;32mI (1189) heap_init: At 3FFAE6E0 len 00001920 (6 KiB): DRAM[0m
+[0;32mI (1194) heap_init: At 3FFB48F8 len 0002B708 (173 KiB): DRAM[0m
+[0;32mI (1200) heap_init: At 3FFE0440 len 00003AE0 (14 KiB): D/IRAM[0m
+[0;32mI (1205) heap_init: At 3FFE4350 len 0001BCB0 (111 KiB): D/IRAM[0m
+[0;32mI (1211) heap_init: At 40090530 len 0000FAD0 (62 KiB): IRAM[0m
+[0;32mI (1216) esp_psram: Adding pool of 4096K of PSRAM memory to heap allocator[0m
+[0;32mI (1223) spi_flash: detected chip: generic[0m
+[0;32mI (1226) spi_flash: flash io: qio[0m
+[0;32mI (1230) main_task: Started on CPU0[0m
+[0;32mI (1240) main_task: Calling app_main()[0m
+Total heap size: 4507576
+Free heap size: 4484700
+Free PSRAM size: 4191548
+Free heap size after allocation: 4304472
+Free PSRAM size after allocation: 4011320
+[0;32mI (1250) gpio: GPIO[25]| InputEn: 1| OutputEn: 0| OpenDrain: 0| Pullup: 1| Pulldown: 0| Intr:2 [0m
+[0;32mI (1250) cam_hal: cam init ok[0m
+[0;32mI (1260) sccb-ng: pin_sda 26 pin_scl 27[0m
+[0;32mI (1260) sccb-ng: sccb_i2c_port=1[0m
+[0;32mI (1260) gpio: GPIO[26]| InputEn: 1| OutputEn: 1| OpenDrain: 1| Pullup: 1| Pulldown: 0| Intr:0 [0m
+[0;32mI (1270) gpio: GPIO[27]| InputEn: 1| OutputEn: 1| OpenDrain: 1| Pullup: 1| Pulldown: 0| Intr:0 [0m
+[0;32mI (1280) gpio: GPIO[32]| InputEn: 0| OutputEn: 1| OpenDrain: 0| Pullup: 0| Pulldown: 0| Intr:0 [0m
+[0;32mI (1320) camera: Detected camera at address=0x30[0m
+[0;32mI (1320) camera: Detected OV2640 camera[0m
+[0;32mI (1320) camera: Camera PID=0x26 VER=0x42 MIDL=0x7f MIDH=0xa2[0m
+[0;32mI (1390) esp32 ll_cam: node_size: 3072, nodes_per_line: 1, lines_per_node: 4, dma_half_buffer_min:  3072, dma_half_buffer: 12288,lines_per_half_buffer: 16, dma_buffer_size: 24576, image_size: 18432[0m
+[0;32mI (1400) cam_hal: buffer_size: 24576, half_buffer_size: 12288, node_buffer_size: 3072, node_cnt: 8, total_cnt: 1[0m
+[0;32mI (1410) cam_hal: Allocating 9216 Byte frame buffer in PSRAM[0m
+[0;32mI (1410) cam_hal: cam config ok[0m
+[0;32mI (1410) ov2640: Set PLL: clk_2x: 0, clk_div: 3, pclk_auto: 1, pclk_div: 8[0m
+Camera Initialized
+
+[0;32mI (1480) UART: Configuring UART parameters...[0m
+[0;32mI (1480) UART: Setting UART pins...[0m
+[0;32mI (1480) UART: UART driver is not installed.[0m
+[0;32mI (1490) UART: Installing UART driver...[0m
+[0;32mI (1490) UART: UART initialized successfully.[0m
+[0;32mI (1490) UART_RX: Waiting............ [0m
+
+[0;32mI (1520) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (2520) UART_RX: Waiting............ [0m
+
+[0;32mI (2540) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (3540) UART_RX: Waiting............ [0m
+
+[0;32mI (3560) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (4560) UART_RX: Waiting............ [0m
+
+[0;32mI (4580) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (5580) UART_RX: Waiting............ [0m
+
+[0;32mI (5600) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (6600) UART_RX: Waiting............ [0m
+
+[0;32mI (6620) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (7620) UART_RX: Waiting............ [0m
+
+[0;32mI (7640) UART_RX: Received data: [0m�?
+[0;32mI (7640) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (8640) UART_RX: Waiting............ [0m
+
+[0;32mI (8660) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (9660) UART_RX: Waiting............ [0m
+
+[0;32mI (9680) UART_RX: Received data: y�?[0m
+[0;32mI (9680) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (10680) UART_RX: Waiting............ [0m
+
+[0;32mI (10700) UART_RX: Received data: �?[0m
+[0;32mI (10700) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (11700) UART_RX: Waiting............ [0m
+
+[0;32mI (11720) UART_RX: Received data: ?[0m
+[0;32mI (11720) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (12720) UART_RX: Waiting............ [0m
+
+[0;32mI (12740) UART_RX: Received data: [0m
+[0;32mI (12740) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (13740) UART_RX: Waiting............ [0m
+
+[0;32mI (13760) UART_RX: Received data: [0m
+[0;32mI (13760) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (14760) UART_RX: Waiting............ [0m
+
+[0;32mI (14780) UART_RX: Received data: [0m
+[0;32mI (14780) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (15780) UART_RX: Waiting............ [0m
+
+[0;32mI (15800) UART_RX: Received data: �?[0m
+[0;32mI (15800) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (16800) UART_RX: Waiting............ [0m
+
+[0;32mI (16820) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (17820) UART_RX: Waiting............ [0m
+
+[0;32mI (17840) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (18840) UART_RX: Waiting............ [0m
+
+[0;32mI (18860) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (19860) UART_RX: Waiting............ [0m
+
+[0;32mI (19880) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (20880) UART_RX: Waiting............ [0m
+
+[0;32mI (20900) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (21900) UART_RX: Waiting............ [0m
+
+[0;32mI (21920) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (22920) UART_RX: Waiting............ [0m
+
+[0;32mI (22940) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (23940) UART_RX: Waiting............ [0m
+
+[0;32mI (23960) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (24960) UART_RX: Waiting............ [0m
+
+[0;32mI (24980) UART_RX: Received data: [0m�?
+[0;32mI (24980) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (25980) UART_RX: Waiting............ [0m
+
+[0;32mI (26000) UART_RX: Received data: y�?[0m
+[0;32mI (26000) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (27000) UART_RX: Waiting............ [0m
+
+[0;32mI (27020) UART_RX: Received data: y�?[0m
+[0;32mI (27020) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (28020) UART_RX: Waiting............ [0m
+
+[0;32mI (28040) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (29040) UART_RX: Waiting............ [0m
+
+[0;32mI (29060) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (30060) UART_RX: Waiting............ [0m
+
+[0;32mI (30080) UART_RX: Received data: �?[0m
+[0;32mI (30080) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (31080) UART_RX: Waiting............ [0m
+
+[0;32mI (31100) UART_RX: Received data: ?[0m
+[0;32mI (31100) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (32100) UART_RX: Waiting............ [0m
+
+[0;32mI (32120) UART_RX: Received data: [0m
+[0;32mI (32120) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (33120) UART_RX: Waiting............ [0m
+
+[0;32mI (33140) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (34140) UART_RX: Waiting............ [0m
+
+[0;32mI (34160) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (35160) UART_RX: Waiting............ [0m
+
+[0;32mI (35180) UART_RX: Received data: �
+[0;32mI (35180) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (36180) UART_RX: Waiting............ [0m
+
+[0;32mI (36200) UART_RX: Received data: �
+[0;32mI (36200) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (37200) UART_RX: Waiting............ [0m
+
+[0;32mI (37220) UART_RX: Received data: �
+[0;32mI (37220) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (38220) UART_RX: Waiting............ [0m
+
+[0;32mI (38240) UART_RX: Received data: �
+[0;32mI (38240) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (39240) UART_RX: Waiting............ [0m
+
+[0;32mI (39260) UART_RX: Received data: �
+[0;32mI (39260) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (40260) UART_RX: Waiting............ [0m
+
+[0;32mI (40280) UART_RX: Received data: �
+[0;32mI (40280) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (41280) UART_RX: Waiting............ [0m
+
+[0;32mI (41300) UART_RX: Received data: �
+[0;32mI (41300) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (42300) UART_RX: Waiting............ [0m
+
+[0;32mI (42320) UART_RX: Received data: �
+[0;32mI (42320) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (43320) UART_RX: Waiting............ [0m
+
+[0;32mI (43340) UART_RX: Received data: �
+[0;32mI (43340) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (44340) UART_RX: Waiting............ [0m
+
+[0;32mI (44360) UART_RX: Received data: �
+[0;32mI (44360) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (45360) UART_RX: Waiting............ [0m
+
+[0;32mI (45380) UART_RX: Received data: �
+[0;32mI (45380) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (46380) UART_RX: Waiting............ [0m
+
+[0;32mI (46400) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (47400) UART_RX: Waiting............ [0m
+
+[0;32mI (47420) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (48420) UART_RX: Waiting............ [0m
+
+[0;32mI (48440) UART_RX: Received data: �
+[0;32mI (48440) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (49440) UART_RX: Waiting............ [0m
+
+[0;32mI (49460) UART_RX: Received data: �
+[0;32mI (49460) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (50460) UART_RX: Waiting............ [0m
+
+[0;32mI (50480) UART_RX: Received data: �
+[0;32mI (50480) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (51480) UART_RX: Waiting............ [0m
+
+[0;32mI (51500) UART_RX: Received data: �
+[0;32mI (51500) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (52500) UART_RX: Waiting............ [0m
+
+[0;32mI (52520) UART_RX: Received data: �
+[0;32mI (52520) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (53520) UART_RX: Waiting............ [0m
+
+[0;32mI (53540) UART_RX: Received data: �
+[0;32mI (53540) UART_TX: Sending............ Hello ESP32[0m
+
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,leets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:1
+load:0x3fff0030,len:6592
+load:0x40078000,len:16676
+ho 0 tail 12 room 4
+load:0x40080400,len:4
+load:0x40080404,len:4268
+entry 0x40080658
+[0;32mI (31) boot: ESP-IDF v5.4-dev-3602-ga97a7b0962 2nd stage bootloader[0m
+[0;32mI (31) boot: compile time Oct 24 2024 19:56:56[0m
+[0;32mI (31) boot: Multicore bootloader[0m
+[0;32mI (34) boot: chip revision: v3.1[0m
+[0;32mI (37) qio_mode: Enabling default flash chip QIO[0m
+[0;32mI (41) boot.esp32: SPI Speed      : 80MHz[0m
+[0;32mI (45) boot.esp32: SPI Mode       : QIO[0m
+[0;32mI (49) boot.esp32: SPI Flash Size : 4MB[0m
+[0;32mI (52) boot: Enabling RNG early entropy source...[0m
+[0;32mI (57) boot: Partition Table:[0m
+[0;32mI (59) boot: ## Label            Usage          Type ST Offset   Length[0m
+[0;32mI (66) boot:  0 nvs              WiFi data        01 02 00009000 00006000[0m
+[0;32mI (72) boot:  1 phy_init         RF data          01 01 0000f000 00001000[0m
+[0;32mI (79) boot:  2 factory          factory app      00 00 00010000 00300000[0m
+[0;32mI (85) boot: End of partition table[0m
+[0;32mI (88) esp_image: segment 0: paddr=00010020 vaddr=3f400020 size=1b39ach (1784236) map[0m
+[0;32mI (552) esp_image: segment 1: paddr=001c39d4 vaddr=3ff80000 size=00018h (    24) load[0m
+[0;32mI (552) esp_image: segment 2: paddr=001c39f4 vaddr=3ffb0000 size=0346ch ( 13420) load[0m
+[0;32mI (559) esp_image: segment 3: paddr=001c6e68 vaddr=40080000 size=091b0h ( 37296) load[0m
+[0;32mI (574) esp_image: segment 4: paddr=001d0020 vaddr=400d0020 size=31aech (203500) map[0m
+[0;32mI (626) esp_image: segment 5: paddr=00201b14 vaddr=400891b0 size=07380h ( 29568) load[0m
+[0;32mI (644) boot: Loaded app from partition at offset 0x10000[0m
+[0;32mI (644) boot: Disabling RNG early entropy source...[0m
+[0;32mI (654) quad_psram: This chip is ESP32-D0WD[0m
+[0;32mI (654) esp_psram: Found 8MB PSRAM device[0m
+[0;32mI (654) esp_psram: Speed: 80MHz[0m
+[0;32mI (654) esp_psram: PSRAM initialized, cache is in low/high (2-core) mode.[0m
+[0;33mW (661) esp_psram: Virtual address not enough for PSRAM, map as much as we can. 4MB is mapped[0m
+[0;32mI (670) cpu_start: Multicore app[0m
+[0;32mI (1139) esp_psram: SPI SRAM memory test OK[0m
+[0;32mI (1147) cpu_start: Pro cpu start user code[0m
+[0;32mI (1147) cpu_start: cpu freq: 240000000 Hz[0m
+[0;32mI (1147) app_init: Application information:[0m
+[0;32mI (1147) app_init: Project name:     person_detection[0m
+[0;32mI (1152) app_init: App version:      1[0m
+[0;32mI (1156) app_init: Compile time:     Oct 24 2024 19:57:09[0m
+[0;32mI (1161) app_init: ELF file SHA256:  6ce238d3e...[0m
+[0;32mI (1165) app_init: ESP-IDF:          v5.4-dev-3602-ga97a7b0962[0m
+[0;32mI (1171) efuse_init: Min chip rev:     v0.0[0m
+[0;32mI (1175) efuse_init: Max chip rev:     v3.99 [0m
+[0;32mI (1179) efuse_init: Chip rev:         v3.1[0m
+[0;32mI (1183) heap_init: Initializing. RAM available for dynamic allocation:[0m
+[0;32mI (1189) heap_init: At 3FFAE6E0 len 00001920 (6 KiB): DRAM[0m
+[0;32mI (1194) heap_init: At 3FFB48F8 len 0002B708 (173 KiB): DRAM[0m
+[0;32mI (1200) heap_init: At 3FFE0440 len 00003AE0 (14 KiB): D/IRAM[0m
+[0;32mI (1205) heap_init: At 3FFE4350 len 0001BCB0 (111 KiB): D/IRAM[0m
+[0;32mI (1211) heap_init: At 40090530 len 0000FAD0 (62 KiB): IRAM[0m
+[0;32mI (1216) esp_psram: Adding pool of 4096K of PSRAM memory to heap allocator[0m
+[0;32mI (1223) spi_flash: detected chip: generic[0m
+[0;32mI (1226) spi_flash: flash io: qio[0m
+[0;32mI (1230) main_task: Started on CPU0[0m
+[0;32mI (1240) main_task: Calling app_main()[0m
+Total heap size: 4507576
+Free heap size: 4484700
+Free PSRAM size: 4191548
+Free heap size after allocation: 4304472
+Free PSRAM size after allocation: 4011320
+[0;32mI (1250) gpio: GPIO[25]| InputEn: 1| OutputEn: 0| OpenDrain: 0| Pullup: 1| Pulldown: 0| Intr:2 [0m
+[0;32mI (1250) cam_hal: cam init ok[0m
+[0;32mI (1260) sccb-ng: pin_sda 26 pin_scl 27[0m
+[0;32mI (1260) sccb-ng: sccb_i2c_port=1[0m
+[0;32mI (1260) gpio: GPIO[26]| InputEn: 1| OutputEn: 1| OpenDrain: 1| Pullup: 1| Pulldown: 0| Intr:0 [0m
+[0;32mI (1270) gpio: GPIO[27]| InputEn: 1| OutputEn: 1| OpenDrain: 1| Pullup: 1| Pulldown: 0| Intr:0 [0m
+[0;32mI (1280) gpio: GPIO[32]| InputEn: 0| OutputEn: 1| OpenDrain: 0| Pullup: 0| Pulldown: 0| Intr:0 [0m
+[0;32mI (1320) camera: Detected camera at address=0x30[0m
+[0;32mI (1320) camera: Detected OV2640 camera[0m
+[0;32mI (1320) camera: Camera PID=0x26 VER=0x42 MIDL=0x7f MIDH=0xa2[0m
+[0;32mI (1390) esp32 ll_cam: node_size: 3072, nodes_per_line: 1, lines_per_node: 4, dma_half_buffer_min:  3072, dma_half_buffer: 12288,lines_per_half_buffer: 16, dma_buffer_size: 24576, image_size: 18432[0m
+[0;32mI (1400) cam_hal: buffer_size: 24576, half_buffer_size: 12288, node_buffer_size: 3072, node_cnt: 8, total_cnt: 1[0m
+[0;32mI (1410) cam_hal: Allocating 9216 Byte frame buffer in PSRAM[0m
+[0;32mI (1410) cam_hal: cam config ok[0m
+[0;32mI (1410) ov2640: Set PLL: clk_2x: 0, clk_div: 3, pclk_auto: 1, pclk_div: 8[0m
+Camera Initialized
+
+[0;32mI (1480) UART: Configuring UART parameters...[0m
+[0;32mI (1480) UART: Setting UART pins...[0m
+[0;32mI (1480) UART: UART driver is not installed.[0m
+[0;32mI (1490) UART: Installing UART driver...[0m
+[0;32mI (1490) UART: UART initialized successfully.[0m
+[0;32mI (1490) UART_RX: Waiting............ [0m
+
+[0;32mI (1520) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (2520) UART_RX: Waiting............ [0m
+
+[0;32mI (2540) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (3540) UART_RX: Waiting............ [0m
+
+[0;32mI (3560) UART_RX: Received data: �
+[0;32mI (3560) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (4560) UART_RX: Waiting............ [0m
+
+[0;32mI (4580) UART_RX: Received data: �
+[0;32mI (4580) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (5580) UART_RX: Waiting............ [0m
+
+[0;32mI (5600) UART_RX: Received data: �
+[0;32mI (5600) UART_TX: Sending............ Hello ESP32[0m
+
+I BOD: Brownout detector was tr�  �gered
+
+
+ets Jul 29 2019 12:21:46
+
+rst:0x0 (NO_MEAN),boot:0x0 (DOWNLOAD_BOOT(UART0/UART1/SDIO_FEI_FEO_V2))
+ets_main.c 404 
+���������������������������������������������������̄���� �̀ ������  ���  ������ �  ���   ��������  ������   �� �����@�������  ��������  � � �� `�����   ���� ��  ���  �� ��  �    �  �    � ��   ����     � ���   `0  �������������>������  ������� � �������������  �������� ������������   ����� ��������   �������  �   �� � ��  ���   �  ��� /   ��     �  ���   �������  ��� �   ��  ��   � � �  � >�      �               �   �  ���   

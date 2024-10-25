@@ -1,0 +1,13 @@
+[0;33m--- esp-idf-monitor 1.5.0 on /dev/ttyUSB0 115200[0m
+[0;33m--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x40080400: _init at ??:?
+[0m
+[0;33m--- 0x400803c3: _DoubleExceptionVector at /home/laloc/esp/idf/esp-idf/components/xtensa/xtensa_vectors.S:566
+[0m
+[0;33m--- 0x400873d6: esp_cpu_wait_for_intr at /home/laloc/esp/idf/esp-idf/components/esp_hw_support/cpu.c:64
+[0m
+[0m

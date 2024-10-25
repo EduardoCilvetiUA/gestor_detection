@@ -1,0 +1,2731 @@
+........ Hello ESP32
+
+[0;32mI (57410) UART_RX: Waiting............ [0m
+
+[0;32mI (57430) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57430) UART_RX: Waiting............ [0m
+
+[0;32mI (57450) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57450) UART_RX: Waiting............ [0m
+
+[0;32mI (57470) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57470) UART_RX: Waiting............ [0m
+
+[0;32mI (57490) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57490) UART_RX: Waiting............ [0m
+
+[0;32mI (57510) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57510) UART_RX: Waiting............ [0m
+
+[0;32mI (57530) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57530) UART_RX: Waiting............ [0m
+
+[0;32mI (57550) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57550) UART_RX: Waiting............ [0m
+
+[0;32mI (57570) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57570) UART_RX: Waiting............ [0m
+
+[0;32mI (57590) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57590) UART_RX: Waiting............ [0m
+
+[0;32mI (57610) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57610) UART_RX: Waiting............ [0m
+
+[0;32mI (57630) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57630) UART_RX: Waiting............ [0m
+
+[0;32mI (57650) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57650) UART_RX: Waiting............ [0m
+
+[0;32mI (57670) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57670) UART_RX: Waiting............ [0m
+
+[0;32mI (57690) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57690) UART_RX: Waiting............ [0m
+
+[0;32mI (57710) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57710) UART_RX: Waiting............ [0m
+
+[0;32mI (57730) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57730) UART_RX: Waiting............ [0m
+
+[0;32mI (57750) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57750) UART_RX: Waiting............ [0m
+
+[0;32mI (57770) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57770) UART_RX: Waiting............ [0m
+
+[0;32mI (57790) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57790) UART_RX: Waiting............ [0m
+
+[0;32mI (57810) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57810) UART_RX: Waiting............ [0m
+
+[0;32mI (57830) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57830) UART_RX: Waiting............ [0m
+
+[0;32mI (57850) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57850) UART_RX: Waiting............ [0m
+
+[0;32mI (57870) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57870) UART_RX: Waiting............ [0m
+
+[0;32mI (57890) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57890) UART_RX: Waiting............ [0m
+
+[0;32mI (57910) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57910) UART_RX: Waiting............ [0m
+
+[0;32mI (57930) UART_RX: Received data: Sending......[0m
+b'Hello ESPCAM'
+���?@t�?
+[0;32mI (57930) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57930) UART_RX: Waiting............ [0m
+
+[0;32mI (57950) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57950) UART_RX: Waiting............ [0m
+
+[0;32mI (57970) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57970) UART_RX: Waiting............ [0m
+
+[0;32mI (57990) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (57990) UART_RX: Waiting............ [0m
+
+[0;32mI (58010) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58010) UART_RX: Waiting............ [0m
+
+[0;32mI (58030) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58030) UART_RX: Waiting............ [0m
+
+[0;32mI (58050) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58050) UART_RX: Waiting............ [0m
+
+[0;32mI (58070) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58070) UART_RX: Waiting............ [0m
+
+[0;32mI (58090) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58090) UART_RX: Waiting............ [0m
+
+[0;32mI (58110) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58110) UART_RX: Waiting............ [0m
+
+[0;32mI (58130) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58130) UART_RX: Waiting............ [0m
+
+[0;32mI (58150) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58150) UART_RX: Waiting............ [0m
+
+[0;32mI (58170) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58170) UART_RX: Waiting............ [0m
+
+[0;32mI (58190) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58190) UART_RX: Waiting............ [0m
+
+[0;32mI (58210) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58210) UART_RX: Waiting............ [0m
+
+[0;32mI (58230) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58230) UART_RX: Waiting............ [0m
+
+[0;32mI (58250) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58250) UART_RX: Waiting............ [0m
+
+[0;32mI (58270) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58270) UART_RX: Waiting............ [0m
+
+[0;32mI (58290) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58290) UART_RX: Waiting............ [0m
+
+[0;32mI (58310) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58310) UART_RX: Waiting............ [0m
+
+[0;32mI (58330) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58330) UART_RX: Waiting............ [0m
+
+[0;32mI (58350) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58350) UART_RX: Waiting............ [0m
+
+[0;32mI (58370) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58370) UART_RX: Waiting............ [0m
+
+[0;32mI (58390) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58390) UART_RX: Waiting............ [0m
+
+[0;32mI (58410) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58410) UART_RX: Waiting............ [0m
+
+[0;32mI (58430) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58430) UART_RX: Waiting............ [0m
+
+[0;32mI (58450) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58450) UART_RX: Waiting............ [0m
+
+[0;32mI (58470) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58470) UART_RX: Waiting............ [0m
+
+[0;32mI (58490) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58490) UART_RX: Waiting............ [0m
+
+[0;32mI (58510) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58510) UART_RX: Waiting............ [0m
+
+[0;32mI (58530) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58530) UART_RX: Waiting............ [0m
+
+[0;32mI (58550) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58550) UART_RX: Waiting............ [0m
+
+[0;32mI (58570) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58570) UART_RX: Waiting............ [0m
+
+[0;32mI (58590) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58590) UART_RX: Waiting............ [0m
+
+[0;32mI (58610) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58610) UART_RX: Waiting............ [0m
+
+[0;32mI (58630) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58630) UART_RX: Waiting............ [0m
+
+[0;32mI (58650) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58650) UART_RX: Waiting............ [0m
+
+[0;32mI (58670) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58670) UART_RX: Waiting............ [0m
+
+[0;32mI (58690) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58690) UART_RX: Waiting............ [0m
+
+[0;32mI (58710) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58710) UART_RX: Waiting............ [0m
+
+[0;32mI (58730) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58730) UART_RX: Waiting............ [0m
+
+[0;32mI (58750) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58750) UART_RX: Waiting............ [0m
+
+[0;32mI (58770) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58770) UART_RX: Waiting............ [0m
+
+[0;32mI (58790) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58790) UART_RX: Waiting............ [0m
+
+[0;32mI (58810) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58810) UART_RX: Waiting............ [0m
+
+[0;32mI (58830) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58830) UART_RX: Waiting............ [0m
+
+[0;32mI (58850) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58850) UART_RX: Waiting............ [0m
+
+[0;32mI (58870) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58870) UART_RX: Waiting............ [0m
+
+[0;32mI (58890) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58890) UART_RX: Waiting............ [0m
+
+[0;32mI (58910) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58910) UART_RX: Waiting............ [0m
+
+[0;32mI (58930) UART_RX: Received data: Sending......[0m
+b'Hello ESPCAM'
+���?@t�?
+[0;32mI (58930) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58930) UART_RX: Waiting............ [0m
+
+[0;32mI (58950) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58950) UART_RX: Waiting............ [0m
+
+[0;32mI (58970) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58970) UART_RX: Waiting............ [0m
+
+[0;32mI (58990) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (58990) UART_RX: Waiting............ [0m
+
+[0;32mI (59010) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59010) UART_RX: Waiting............ [0m
+
+[0;32mI (59030) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59030) UART_RX: Waiting............ [0m
+
+[0;32mI (59050) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59050) UART_RX: Waiting............ [0m
+
+[0;32mI (59070) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59070) UART_RX: Waiting............ [0m
+
+[0;32mI (59090) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59090) UART_RX: Waiting............ [0m
+
+[0;32mI (59110) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59110) UART_RX: Waiting............ [0m
+
+[0;32mI (59130) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59130) UART_RX: Waiting............ [0m
+
+[0;32mI (59150) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59150) UART_RX: Waiting............ [0m
+
+[0;32mI (59170) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59170) UART_RX: Waiting............ [0m
+
+[0;32mI (59190) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59190) UART_RX: Waiting............ [0m
+
+[0;32mI (59210) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59210) UART_RX: Waiting............ [0m
+
+[0;32mI (59230) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59230) UART_RX: Waiting............ [0m
+
+[0;32mI (59250) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59250) UART_RX: Waiting............ [0m
+
+[0;32mI (59270) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59270) UART_RX: Waiting............ [0m
+
+[0;32mI (59290) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59290) UART_RX: Waiting............ [0m
+
+[0;32mI (59310) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59310) UART_RX: Waiting............ [0m
+
+[0;32mI (59330) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59330) UART_RX: Waiting............ [0m
+
+[0;32mI (59350) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59350) UART_RX: Waiting............ [0m
+
+[0;32mI (59370) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59370) UART_RX: Waiting............ [0m
+
+[0;32mI (59390) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59390) UART_RX: Waiting............ [0m
+
+[0;32mI (59410) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59410) UART_RX: Waiting............ [0m
+
+[0;32mI (59430) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59430) UART_RX: Waiting............ [0m
+
+[0;32mI (59450) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59450) UART_RX: Waiting............ [0m
+
+[0;32mI (59470) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59470) UART_RX: Waiting............ [0m
+
+[0;32mI (59490) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59490) UART_RX: Waiting............ [0m
+
+[0;32mI (59510) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59510) UART_RX: Waiting............ [0m
+
+[0;32mI (59530) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59530) UART_RX: Waiting............ [0m
+
+[0;32mI (59550) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59550) UART_RX: Waiting............ [0m
+
+[0;32mI (59570) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59570) UART_RX: Waiting............ [0m
+
+[0;32mI (59590) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59590) UART_RX: Waiting............ [0m
+
+[0;32mI (59610) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59610) UART_RX: Waiting............ [0m
+
+[0;32mI (59630) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59630) UART_RX: Waiting............ [0m
+
+[0;32mI (59650) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59650) UART_RX: Waiting............ [0m
+
+[0;32mI (59670) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59670) UART_RX: Waiting............ [0m
+
+[0;32mI (59690) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59690) UART_RX: Waiting............ [0m
+
+[0;32mI (59710) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59710) UART_RX: Waiting............ [0m
+
+[0;32mI (59730) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59730) UART_RX: Waiting............ [0m
+
+[0;32mI (59750) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59750) UART_RX: Waiting............ [0m
+
+[0;32mI (59770) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59770) UART_RX: Waiting............ [0m
+
+[0;32mI (59790) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59790) UART_RX: Waiting............ [0m
+
+[0;32mI (59810) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59810) UART_RX: Waiting............ [0m
+
+[0;32mI (59830) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59830) UART_RX: Waiting............ [0m
+
+[0;32mI (59850) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59850) UART_RX: Waiting............ [0m
+
+[0;32mI (59870) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59870) UART_RX: Waiting............ [0m
+
+[0;32mI (59890) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59890) UART_RX: Waiting............ [0m
+
+[0;32mI (59910) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59910) UART_RX: Waiting............ [0m
+
+[0;32mI (59930) UART_RX: Received data: Sending......[0m
+b'Hello ESPCAM'
+���?@t�?
+[0;32mI (59930) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59930) UART_RX: Waiting............ [0m
+
+[0;32mI (59950) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59950) UART_RX: Waiting............ [0m
+
+[0;32mI (59970) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59970) UART_RX: Waiting............ [0m
+
+[0;32mI (59990) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (59990) UART_RX: Waiting............ [0m
+
+[0;32mI (60010) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60010) UART_RX: Waiting............ [0m
+
+[0;32mI (60030) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60030) UART_RX: Waiting............ [0m
+
+[0;32mI (60050) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60050) UART_RX: Waiting............ [0m
+
+[0;32mI (60070) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60070) UART_RX: Waiting............ [0m
+
+[0;32mI (60090) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60090) UART_RX: Waiting............ [0m
+
+[0;32mI (60110) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60110) UART_RX: Waiting............ [0m
+
+[0;32mI (60130) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60130) UART_RX: Waiting............ [0m
+
+[0;32mI (60150) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60150) UART_RX: Waiting............ [0m
+
+[0;32mI (60170) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60170) UART_RX: Waiting............ [0m
+
+[0;32mI (60190) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60190) UART_RX: Waiting............ [0m
+
+[0;32mI (60210) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60210) UART_RX: Waiting............ [0m
+
+[0;32mI (60230) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60230) UART_RX: Waiting............ [0m
+
+[0;32mI (60250) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60250) UART_RX: Waiting............ [0m
+
+[0;32mI (60270) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60270) UART_RX: Waiting............ [0m
+
+[0;32mI (60290) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60290) UART_RX: Waiting............ [0m
+
+[0;32mI (60310) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60310) UART_RX: Waiting............ [0m
+
+[0;32mI (60330) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60330) UART_RX: Waiting............ [0m
+
+[0;32mI (60350) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60350) UART_RX: Waiting............ [0m
+
+[0;32mI (60370) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60370) UART_RX: Waiting............ [0m
+
+[0;32mI (60390) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60390) UART_RX: Waiting............ [0m
+
+[0;32mI (60410) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60410) UART_RX: Waiting............ [0m
+
+[0;32mI (60430) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60430) UART_RX: Waiting............ [0m
+
+[0;32mI (60450) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60450) UART_RX: Waiting............ [0m
+
+[0;32mI (60470) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60470) UART_RX: Waiting............ [0m
+
+[0;32mI (60490) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60490) UART_RX: Waiting............ [0m
+
+[0;32mI (60510) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60510) UART_RX: Waiting............ [0m
+
+[0;32mI (60530) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60530) UART_RX: Waiting............ [0m
+
+[0;32mI (60550) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60550) UART_RX: Waiting............ [0m
+
+[0;32mI (60570) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60570) UART_RX: Waiting............ [0m
+
+[0;32mI (60590) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60590) UART_RX: Waiting............ [0m
+
+[0;32mI (60610) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60610) UART_RX: Waiting............ [0m
+
+[0;32mI (60630) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60630) UART_RX: Waiting............ [0m
+
+[0;32mI (60650) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60650) UART_RX: Waiting............ [0m
+
+[0;32mI (60670) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60670) UART_RX: Waiting............ [0m
+
+[0;32mI (60690) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60690) UART_RX: Waiting............ [0m
+
+[0;32mI (60710) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60710) UART_RX: Waiting............ [0m
+
+[0;32mI (60730) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60730) UART_RX: Waiting............ [0m
+
+[0;32mI (60750) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60750) UART_RX: Waiting............ [0m
+
+[0;32mI (60770) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60770) UART_RX: Waiting............ [0m
+
+[0;32mI (60790) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60790) UART_RX: Waiting............ [0m
+
+[0;32mI (60810) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60810) UART_RX: Waiting............ [0m
+
+[0;32mI (60830) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60830) UART_RX: Waiting............ [0m
+
+[0;32mI (60850) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60850) UART_RX: Waiting............ [0m
+
+[0;32mI (60870) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60870) UART_RX: Waiting............ [0m
+
+[0;32mI (60890) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60890) UART_RX: Waiting............ [0m
+
+[0;32mI (60910) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60910) UART_RX: Waiting............ [0m
+
+[0;32mI (60930) UART_RX: Received data: Sending......[0m
+b'Hello ESPCAM'
+���?@t�?
+[0;32mI (60930) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60930) UART_RX: Waiting............ [0m
+
+[0;32mI (60950) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60950) UART_RX: Waiting............ [0m
+
+[0;32mI (60970) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60970) UART_RX: Waiting............ [0m
+
+[0;32mI (60990) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (60990) UART_RX: Waiting............ [0m
+
+[0;32mI (61010) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61010) UART_RX: Waiting............ [0m
+
+[0;32mI (61030) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61030) UART_RX: Waiting............ [0m
+
+[0;32mI (61050) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61050) UART_RX: Waiting............ [0m
+
+[0;32mI (61070) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61070) UART_RX: Waiting............ [0m
+
+[0;32mI (61090) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61090) UART_RX: Waiting............ [0m
+
+[0;32mI (61110) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61110) UART_RX: Waiting............ [0m
+
+[0;32mI (61130) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61130) UART_RX: Waiting............ [0m
+
+[0;32mI (61150) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61150) UART_RX: Waiting............ [0m
+
+[0;32mI (61170) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61170) UART_RX: Waiting............ [0m
+
+[0;32mI (61190) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61190) UART_RX: Waiting............ [0m
+
+[0;32mI (61210) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61210) UART_RX: Waiting............ [0m
+
+[0;32mI (61230) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61230) UART_RX: Waiting............ [0m
+
+[0;32mI (61250) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61250) UART_RX: Waiting............ [0m
+
+[0;32mI (61270) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61270) UART_RX: Waiting............ [0m
+
+[0;32mI (61290) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61290) UART_RX: Waiting............ [0m
+
+[0;32mI (61310) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61310) UART_RX: Waiting............ [0m
+
+[0;32mI (61330) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61330) UART_RX: Waiting............ [0m
+
+[0;32mI (61350) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61350) UART_RX: Waiting............ [0m
+
+[0;32mI (61370) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61370) UART_RX: Waiting............ [0m
+
+[0;32mI (61390) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61390) UART_RX: Waiting............ [0m
+
+[0;32mI (61410) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61410) UART_RX: Waiting............ [0m
+
+[0;32mI (61430) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61430) UART_RX: Waiting............ [0m
+
+[0;32mI (61450) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61450) UART_RX: Waiting............ [0m
+
+[0;32mI (61470) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61470) UART_RX: Waiting............ [0m
+
+[0;32mI (61490) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61490) UART_RX: Waiting............ [0m
+
+[0;32mI (61510) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61510) UART_RX: Waiting............ [0m
+
+[0;32mI (61530) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61530) UART_RX: Waiting............ [0m
+
+[0;32mI (61550) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61550) UART_RX: Waiting............ [0m
+
+[0;32mI (61570) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61570) UART_RX: Waiting............ [0m
+
+[0;32mI (61590) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61590) UART_RX: Waiting............ [0m
+
+[0;32mI (61610) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61610) UART_RX: Waiting............ [0m
+
+[0;32mI (61630) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61630) UART_RX: Waiting............ [0m
+
+[0;32mI (61650) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61650) UART_RX: Waiting............ [0m
+
+[0;32mI (61670) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61670) UART_RX: Waiting............ [0m
+
+[0;32mI (61690) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61690) UART_RX: Waiting............ [0m
+
+[0;32mI (61710) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61710) UART_RX: Waiting............ [0m
+
+[0;32mI (61730) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61730) UART_RX: Waiting............ [0m
+
+[0;32mI (61750) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61750) UART_RX: Waiting............ [0m
+
+[0;32mI (61770) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61770) UART_RX: Waiting............ [0m
+
+[0;32mI (61790) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61790) UART_RX: Waiting............ [0m
+
+[0;32mI (61810) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61810) UART_RX: Waiting............ [0m
+
+[0;32mI (61830) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61830) UART_RX: Waiting............ [0m
+
+[0;32mI (61850) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61850) UART_RX: Waiting............ [0m
+
+[0;32mI (61870) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61870) UART_RX: Waiting............ [0m
+
+[0;32mI (61890) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61890) UART_RX: Waiting............ [0m
+
+[0;32mI (61910) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61910) UART_RX: Waiting............ [0m
+
+[0;32mI (61930) UART_RX: Received data: Sending......[0m
+b'Hello ESPCAM'
+���?@t�?
+[0;32mI (61930) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61930) UART_RX: Waiting............ [0m
+
+[0;32mI (61950) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61950) UART_RX: Waiting............ [0m
+
+[0;32mI (61970) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61970) UART_RX: Waiting............ [0m
+
+[0;32mI (61990) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (61990) UART_RX: Waiting............ [0m
+
+[0;32mI (62010) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62010) UART_RX: Waiting............ [0m
+
+[0;32mI (62030) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62030) UART_RX: Waiting............ [0m
+
+[0;32mI (62050) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62050) UART_RX: Waiting............ [0m
+
+[0;32mI (62070) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62070) UART_RX: Waiting............ [0m
+
+[0;32mI (62090) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62090) UART_RX: Waiting............ [0m
+
+[0;32mI (62110) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62110) UART_RX: Waiting............ [0m
+
+[0;32mI (62130) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62130) UART_RX: Waiting............ [0m
+
+[0;32mI (62150) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62150) UART_RX: Waiting............ [0m
+
+[0;32mI (62170) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62170) UART_RX: Waiting............ [0m
+
+[0;32mI (62190) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62190) UART_RX: Waiting............ [0m
+
+[0;32mI (62210) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62210) UART_RX: Waiting............ [0m
+
+[0;32mI (62230) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62230) UART_RX: Waiting............ [0m
+
+[0;32mI (62250) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62250) UART_RX: Waiting............ [0m
+
+[0;32mI (62270) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62270) UART_RX: Waiting............ [0m
+
+[0;32mI (62290) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62290) UART_RX: Waiting............ [0m
+
+[0;32mI (62310) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62310) UART_RX: Waiting............ [0m
+
+[0;32mI (62330) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62330) UART_RX: Waiting............ [0m
+
+[0;32mI (62350) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62350) UART_RX: Waiting............ [0m
+
+[0;32mI (62370) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62370) UART_RX: Waiting............ [0m
+
+[0;32mI (62390) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62390) UART_RX: Waiting............ [0m
+
+[0;32mI (62410) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62410) UART_RX: Waiting............ [0m
+
+[0;32mI (62430) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62430) UART_RX: Waiting............ [0m
+
+[0;32mI (62450) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62450) UART_RX: Waiting............ [0m
+
+[0;32mI (62470) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62470) UART_RX: Waiting............ [0m
+
+[0;32mI (62490) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62490) UART_RX: Waiting............ [0m
+
+[0;32mI (62510) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62510) UART_RX: Waiting............ [0m
+
+[0;32mI (62530) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62530) UART_RX: Waiting............ [0m
+
+[0;32mI (62550) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62550) UART_RX: Waiting............ [0m
+
+[0;32mI (62570) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62570) UART_RX: Waiting............ [0m
+
+[0;32mI (62590) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62590) UART_RX: Waiting............ [0m
+
+[0;32mI (62610) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62610) UART_RX: Waiting............ [0m
+
+[0;32mI (62630) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62630) UART_RX: Waiting............ [0m
+
+[0;32mI (62650) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62650) UART_RX: Waiting............ [0m
+
+[0;32mI (62670) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62670) UART_RX: Waiting............ [0m
+
+[0;32mI (62690) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62690) UART_RX: Waiting............ [0m
+
+[0;32mI (62710) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62710) UART_RX: Waiting............ [0m
+
+[0;32mI (62730) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62730) UART_RX: Waiting............ [0m
+
+[0;32mI (62750) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62750) UART_RX: Waiting............ [0m
+
+[0;32mI (62770) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62770) UART_RX: Waiting............ [0m
+
+[0;32mI (62790) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62790) UART_RX: Waiting............ [0m
+
+[0;32mI (62810) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62810) UART_RX: Waiting............ [0m
+
+[0;32mI (62830) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62830) UART_RX: Waiting............ [0m
+
+[0;32mI (62850) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62850) UART_RX: Waiting............ [0m
+
+[0;32mI (62870) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62870) UART_RX: Waiting............ [0m
+
+[0;32mI (62890) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62890) UART_RX: Waiting............ [0m
+
+[0;32mI (62910) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62910) UART_RX: Waiting............ [0m
+
+[0;32mI (62930) UART_RX: Received data: Sending......[0m
+b'Hello ESPCAM'
+���?@t�?
+[0;32mI (62930) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62930) UART_RX: Waiting............ [0m
+
+[0;32mI (62950) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62950) UART_RX: Waiting............ [0m
+
+[0;32mI (62970) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62970) UART_RX: Waiting............ [0m
+
+[0;32mI (62990) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (62990) UART_RX: Waiting............ [0m
+
+[0;32mI (63010) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63010) UART_RX: Waiting............ [0m
+
+[0;32mI (63030) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63030) UART_RX: Waiting............ [0m
+
+[0;32mI (63050) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63050) UART_RX: Waiting............ [0m
+
+[0;32mI (63070) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63070) UART_RX: Waiting............ [0m
+
+[0;32mI (63090) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63090) UART_RX: Waiting............ [0m
+
+[0;32mI (63110) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63110) UART_RX: Waiting............ [0m
+
+[0;32mI (63130) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63130) UART_RX: Waiting............ [0m
+
+[0;32mI (63150) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63150) UART_RX: Waiting............ [0m
+
+[0;32mI (63170) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63170) UART_RX: Waiting............ [0m
+
+[0;32mI (63190) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63190) UART_RX: Waiting............ [0m
+
+[0;32mI (63210) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63210) UART_RX: Waiting............ [0m
+
+[0;32mI (63230) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63230) UART_RX: Waiting............ [0m
+
+[0;32mI (63250) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63250) UART_RX: Waiting............ [0m
+
+[0;32mI (63270) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63270) UART_RX: Waiting............ [0m
+
+[0;32mI (63290) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63290) UART_RX: Waiting............ [0m
+
+[0;32mI (63310) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63310) UART_RX: Waiting............ [0m
+
+[0;32mI (63330) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63330) UART_RX: Waiting............ [0m
+
+[0;32mI (63350) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63350) UART_RX: Waiting............ [0m
+
+[0;32mI (63370) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63370) UART_RX: Waiting............ [0m
+
+[0;32mI (63390) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63390) UART_RX: Waiting............ [0m
+
+[0;32mI (63410) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63410) UART_RX: Waiting............ [0m
+
+[0;32mI (63430) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63430) UART_RX: Waiting............ [0m
+
+[0;32mI (63450) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63450) UART_RX: Waiting............ [0m
+
+[0;32mI (63470) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63470) UART_RX: Waiting............ [0m
+
+[0;32mI (63490) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63490) UART_RX: Waiting............ [0m
+
+[0;32mI (63510) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63510) UART_RX: Waiting............ [0m
+
+[0;32mI (63530) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63530) UART_RX: Waiting............ [0m
+
+[0;32mI (63550) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63550) UART_RX: Waiting............ [0m
+
+[0;32mI (63570) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63570) UART_RX: Waiting............ [0m
+
+[0;32mI (63590) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63590) UART_RX: Waiting............ [0m
+
+[0;32mI (63610) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63610) UART_RX: Waiting............ [0m
+
+[0;32mI (63630) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63630) UART_RX: Waiting............ [0m
+
+[0;32mI (63650) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63650) UART_RX: Waiting............ [0m
+
+[0;32mI (63670) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63670) UART_RX: Waiting............ [0m
+
+[0;32mI (63690) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63690) UART_RX: Waiting............ [0m
+
+[0;32mI (63710) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63710) UART_RX: Waiting............ [0m
+
+[0;32mI (63730) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63730) UART_RX: Waiting............ [0m
+
+[0;32mI (63750) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63750) UART_RX: Waiting............ [0m
+
+[0;32mI (63770) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63770) UART_RX: Waiting............ [0m
+
+[0;32mI (63790) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63790) UART_RX: Waiting............ [0m
+
+[0;32mI (63810) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63810) UART_RX: Waiting............ [0m
+
+[0;32mI (63830) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63830) UART_RX: Waiting............ [0m
+
+[0;32mI (63850) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63850) UART_RX: Waiting............ [0m
+
+[0;32mI (63870) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63870) UART_RX: Waiting............ [0m
+
+[0;32mI (63890) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63890) UART_RX: Waiting............ [0m
+
+[0;32mI (63910) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63910) UART_RX: Waiting............ [0m
+
+[0;32mI (63930) UART_RX: Received data: Sending......[0m
+b'Hello ESPCAM'
+���?@t�?
+[0;32mI (63930) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63930) UART_RX: Waiting............ [0m
+
+[0;32mI (63950) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63950) UART_RX: Waiting............ [0m
+
+[0;32mI (63970) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63970) UART_RX: Waiting............ [0m
+
+[0;32mI (63990) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (63990) UART_RX: Waiting............ [0m
+
+[0;32mI (64010) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64010) UART_RX: Waiting............ [0m
+
+[0;32mI (64030) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64030) UART_RX: Waiting............ [0m
+
+[0;32mI (64050) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64050) UART_RX: Waiting............ [0m
+
+[0;32mI (64070) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64070) UART_RX: Waiting............ [0m
+
+[0;32mI (64090) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64090) UART_RX: Waiting............ [0m
+
+[0;32mI (64110) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64110) UART_RX: Waiting............ [0m
+
+[0;32mI (64130) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64130) UART_RX: Waiting............ [0m
+
+[0;32mI (64150) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64150) UART_RX: Waiting............ [0m
+
+[0;32mI (64170) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64170) UART_RX: Waiting............ [0m
+
+[0;32mI (64190) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64190) UART_RX: Waiting............ [0m
+
+[0;32mI (64210) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64210) UART_RX: Waiting............ [0m
+
+[0;32mI (64230) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64230) UART_RX: Waiting............ [0m
+
+[0;32mI (64250) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64250) UART_RX: Waiting............ [0m
+
+[0;32mI (64270) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64270) UART_RX: Waiting............ [0m
+
+[0;32mI (64290) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64290) UART_RX: Waiting............ [0m
+
+[0;32mI (64310) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64310) UART_RX: Waiting............ [0m
+
+[0;32mI (64330) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64330) UART_RX: Waiting............ [0m
+
+[0;32mI (64350) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64350) UART_RX: Waiting............ [0m
+
+[0;32mI (64370) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64370) UART_RX: Waiting............ [0m
+
+[0;32mI (64390) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64390) UART_RX: Waiting............ [0m
+
+[0;32mI (64410) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64410) UART_RX: Waiting............ [0m
+
+[0;32mI (64430) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64430) UART_RX: Waiting............ [0m
+
+[0;32mI (64450) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64450) UART_RX: Waiting............ [0m
+
+[0;32mI (64470) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64470) UART_RX: Waiting............ [0m
+
+[0;32mI (64490) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64490) UART_RX: Waiting............ [0m
+
+[0;32mI (64510) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64510) UART_RX: Waiting............ [0m
+
+[0;32mI (64530) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64530) UART_RX: Waiting............ [0m
+
+[0;32mI (64550) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64550) UART_RX: Waiting............ [0m
+
+[0;32mI (64570) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64570) UART_RX: Waiting............ [0m
+
+[0;32mI (64590) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64590) UART_RX: Waiting............ [0m
+
+[0;32mI (64610) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64610) UART_RX: Waiting............ [0m
+
+[0;32mI (64630) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64630) UART_RX: Waiting............ [0m
+
+[0;32mI (64650) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64650) UART_RX: Waiting............ [0m
+
+[0;32mI (64670) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64670) UART_RX: Waiting............ [0m
+
+[0;32mI (64690) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64690) UART_RX: Waiting............ [0m
+
+[0;32mI (64710) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64710) UART_RX: Waiting............ [0m
+
+[0;32mI (64730) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64730) UART_RX: Waiting............ [0m
+
+[0;32mI (64750) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64750) UART_RX: Waiting............ [0m
+
+[0;32mI (64770) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64770) UART_RX: Waiting............ [0m
+
+[0;32mI (64790) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64790) UART_RX: Waiting............ [0m
+
+[0;32mI (64810) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64810) UART_RX: Waiting............ [0m
+
+[0;32mI (64830) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64830) UART_RX: Waiting............ [0m
+
+[0;32mI (64850) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64850) UART_RX: Waiting............ [0m
+
+[0;32mI (64870) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64870) UART_RX: Waiting............ [0m
+
+[0;32mI (64890) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64890) UART_RX: Waiting............ [0m
+
+[0;32mI (64910) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64910) UART_RX: Waiting............ [0m
+
+[0;32mI (64930) UART_RX: Received data: Sending......[0m
+b'Hello ESPCAM'
+���?@t�?
+[0;32mI (64930) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64930) UART_RX: Waiting............ [0m
+
+[0;32mI (64950) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64950) UART_RX: Waiting............ [0m
+
+[0;32mI (64970) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64970) UART_RX: Waiting............ [0m
+
+[0;32mI (64990) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (64990) UART_RX: Waiting............ [0m
+
+[0;32mI (65010) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65010) UART_RX: Waiting............ [0m
+
+[0;32mI (65030) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65030) UART_RX: Waiting............ [0m
+
+[0;32mI (65050) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65050) UART_RX: Waiting............ [0m
+
+[0;32mI (65070) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65070) UART_RX: Waiting............ [0m
+
+[0;32mI (65090) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65090) UART_RX: Waiting............ [0m
+
+[0;32mI (65110) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65110) UART_RX: Waiting............ [0m
+
+[0;32mI (65130) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65130) UART_RX: Waiting............ [0m
+
+[0;32mI (65150) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65150) UART_RX: Waiting............ [0m
+
+[0;32mI (65170) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65170) UART_RX: Waiting............ [0m
+
+[0;32mI (65190) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65190) UART_RX: Waiting............ [0m
+
+[0;32mI (65210) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65210) UART_RX: Waiting............ [0m
+
+[0;32mI (65230) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65230) UART_RX: Waiting............ [0m
+
+[0;32mI (65250) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65250) UART_RX: Waiting............ [0m
+
+[0;32mI (65270) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65270) UART_RX: Waiting............ [0m
+
+[0;32mI (65290) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65290) UART_RX: Waiting............ [0m
+
+[0;32mI (65310) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65310) UART_RX: Waiting............ [0m
+
+[0;32mI (65330) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65330) UART_RX: Waiting............ [0m
+
+[0;32mI (65350) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65350) UART_RX: Waiting............ [0m
+
+[0;32mI (65370) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65370) UART_RX: Waiting............ [0m
+
+[0;32mI (65390) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65390) UART_RX: Waiting............ [0m
+
+[0;32mI (65410) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65410) UART_RX: Waiting............ [0m
+
+[0;32mI (65430) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65430) UART_RX: Waiting............ [0m
+
+[0;32mI (65450) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65450) UART_RX: Waiting............ [0m
+
+[0;32mI (65470) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65470) UART_RX: Waiting............ [0m
+
+[0;32mI (65490) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65490) UART_RX: Waiting............ [0m
+
+[0;32mI (65510) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65510) UART_RX: Waiting............ [0m
+
+[0;32mI (65530) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65530) UART_RX: Waiting............ [0m
+
+[0;32mI (65550) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65550) UART_RX: Waiting............ [0m
+
+[0;32mI (65570) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65570) UART_RX: Waiting............ [0m
+
+[0;32mI (65590) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65590) UART_RX: Waiting............ [0m
+
+[0;32mI (65610) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65610) UART_RX: Waiting............ [0m
+
+[0;32mI (65630) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65630) UART_RX: Waiting............ [0m
+
+[0;32mI (65650) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65650) UART_RX: Waiting............ [0m
+
+[0;32mI (65670) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65670) UART_RX: Waiting............ [0m
+
+[0;32mI (65690) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65690) UART_RX: Waiting............ [0m
+
+[0;32mI (65710) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65710) UART_RX: Waiting............ [0m
+
+[0;32mI (65730) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65730) UART_RX: Waiting............ [0m
+
+[0;32mI (65750) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65750) UART_RX: Waiting............ [0m
+
+[0;32mI (65770) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65770) UART_RX: Waiting............ [0m
+
+[0;32mI (65790) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65790) UART_RX: Waiting............ [0m
+
+[0;32mI (65810) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65810) UART_RX: Waiting............ [0m
+
+[0;32mI (65830) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65830) UART_RX: Waiting............ [0m
+
+[0;32mI (65850) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65850) UART_RX: Waiting............ [0m
+
+[0;32mI (65870) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65870) UART_RX: Waiting............ [0m
+
+[0;32mI (65890) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65890) UART_RX: Waiting............ [0m
+
+[0;32mI (65910) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65910) UART_RX: Waiting............ [0m
+
+[0;32mI (65930) UART_RX: Received data: Sending......[0m
+b'Hello ESPCAM'
+���?@t�?
+[0;32mI (65930) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65930) UART_RX: Waiting............ [0m
+
+[0;32mI (65950) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65950) UART_RX: Waiting............ [0m
+
+[0;32mI (65970) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65970) UART_RX: Waiting............ [0m
+
+[0;32mI (65990) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (65990) UART_RX: Waiting............ [0m
+
+[0;32mI (66010) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66010) UART_RX: Waiting............ [0m
+
+[0;32mI (66030) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66030) UART_RX: Waiting............ [0m
+
+[0;32mI (66050) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66050) UART_RX: Waiting............ [0m
+
+[0;32mI (66070) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66070) UART_RX: Waiting............ [0m
+
+[0;32mI (66090) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66090) UART_RX: Waiting............ [0m
+
+[0;32mI (66110) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66110) UART_RX: Waiting............ [0m
+
+[0;32mI (66130) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66130) UART_RX: Waiting............ [0m
+
+[0;32mI (66150) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66150) UART_RX: Waiting............ [0m
+
+[0;32mI (66170) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66170) UART_RX: Waiting............ [0m
+
+[0;32mI (66190) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66190) UART_RX: Waiting............ [0m
+
+[0;32mI (66210) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66210) UART_RX: Waiting............ [0m
+
+[0;32mI (66230) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66230) UART_RX: Waiting............ [0m
+
+[0;32mI (66250) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66250) UART_RX: Waiting............ [0m
+
+[0;32mI (66270) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66270) UART_RX: Waiting............ [0m
+
+[0;32mI (66290) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66290) UART_RX: Waiting............ [0m
+
+[0;32mI (66310) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66310) UART_RX: Waiting............ [0m
+
+[0;32mI (66330) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66330) UART_RX: Waiting............ [0m
+
+[0;32mI (66350) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66350) UART_RX: Waiting............ [0m
+
+[0;32mI (66370) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66370) UART_RX: Waiting............ [0m
+
+[0;32mI (66390) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66390) UART_RX: Waiting............ [0m
+
+[0;32mI (66410) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66410) UART_RX: Waiting............ [0m
+
+[0;32mI (66430) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66430) UART_RX: Waiting............ [0m
+
+[0;32mI (66450) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66450) UART_RX: Waiting............ [0m
+
+[0;32mI (66470) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66470) UART_RX: Waiting............ [0m
+
+[0;32mI (66490) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66490) UART_RX: Waiting............ [0m
+
+[0;32mI (66510) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66510) UART_RX: Waiting............ [0m
+
+[0;32mI (66530) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66530) UART_RX: Waiting............ [0m
+
+[0;32mI (66550) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66550) UART_RX: Waiting............ [0m
+
+[0;32mI (66570) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66570) UART_RX: Waiting............ [0m
+
+[0;32mI (66590) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66590) UART_RX: Waiting............ [0m
+
+[0;32mI (66610) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66610) UART_RX: Waiting............ [0m
+
+[0;32mI (66630) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66630) UART_RX: Waiting............ [0m
+
+[0;32mI (66650) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66650) UART_RX: Waiting............ [0m
+
+[0;32mI (66670) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66670) UART_RX: Waiting............ [0m
+
+[0;32mI (66690) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66690) UART_RX: Waiting............ [0m
+
+[0;32mI (66710) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66710) UART_RX: Waiting............ [0m
+
+[0;32mI (66730) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66730) UART_RX: Waiting............ [0m
+
+[0;32mI (66750) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66750) UART_RX: Waiting............ [0m
+
+[0;32mI (66770) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66770) UART_RX: Waiting............ [0m
+
+[0;32mI (66790) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66790) UART_RX: Waiting............ [0m
+
+[0;32mI (66810) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66810) UART_RX: Waiting............ [0m
+
+[0;32mI (66830) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66830) UART_RX: Waiting............ [0m
+
+[0;32mI (66850) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66850) UART_RX: Waiting............ [0m
+
+[0;32mI (66870) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66870) UART_RX: Waiting............ [0m
+
+[0;32mI (66890) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66890) UART_RX: Waiting............ [0m
+
+[0;32mI (66910) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66910) UART_RX: Waiting............ [0m
+
+[0;32mI (66930) UART_RX: Received data: Sending......[0m
+b'Hello ESPCAM'
+���?@t�?
+[0;32mI (66930) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66930) UART_RX: Waiting............ [0m
+
+[0;32mI (66950) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66950) UART_RX: Waiting............ [0m
+
+[0;32mI (66970) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66970) UART_RX: Waiting............ [0m
+
+[0;32mI (66990) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (66990) UART_RX: Waiting............ [0m
+
+[0;32mI (67010) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67010) UART_RX: Waiting............ [0m
+
+[0;32mI (67030) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67030) UART_RX: Waiting............ [0m
+
+[0;32mI (67050) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67050) UART_RX: Waiting............ [0m
+
+[0;32mI (67070) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67070) UART_RX: Waiting............ [0m
+
+[0;32mI (67090) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67090) UART_RX: Waiting............ [0m
+
+[0;32mI (67110) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67110) UART_RX: Waiting............ [0m
+
+[0;32mI (67130) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67130) UART_RX: Waiting............ [0m
+
+[0;32mI (67150) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67150) UART_RX: Waiting............ [0m
+
+[0;32mI (67170) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67170) UART_RX: Waiting............ [0m
+
+[0;32mI (67190) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67190) UART_RX: Waiting............ [0m
+
+[0;32mI (67210) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67210) UART_RX: Waiting............ [0m
+
+[0;32mI (67230) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67230) UART_RX: Waiting............ [0m
+
+[0;32mI (67250) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67250) UART_RX: Waiting............ [0m
+
+[0;32mI (67270) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67270) UART_RX: Waiting............ [0m
+
+[0;32mI (67290) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67290) UART_RX: Waiting............ [0m
+
+[0;32mI (67310) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67310) UART_RX: Waiting............ [0m
+
+[0;32mI (67330) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67330) UART_RX: Waiting............ [0m
+
+[0;32mI (67350) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67350) UART_RX: Waiting............ [0m
+
+[0;32mI (67370) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67370) UART_RX: Waiting............ [0m
+
+[0;32mI (67390) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67390) UART_RX: Waiting............ [0m
+
+[0;32mI (67410) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67410) UART_RX: Waiting............ [0m
+
+[0;32mI (67430) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67430) UART_RX: Waiting............ [0m
+
+[0;32mI (67450) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67450) UART_RX: Waiting............ [0m
+
+[0;32mI (67470) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67470) UART_RX: Waiting............ [0m
+
+[0;32mI (67490) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67490) UART_RX: Waiting............ [0m
+
+[0;32mI (67510) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67510) UART_RX: Waiting............ [0m
+
+[0;32mI (67530) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67530) UART_RX: Waiting............ [0m
+
+[0;32mI (67550) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67550) UART_RX: Waiting............ [0m
+
+[0;32mI (67570) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67570) UART_RX: Waiting............ [0m
+
+[0;32mI (67590) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67590) UART_RX: Waiting............ [0m
+
+[0;32mI (67610) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67610) UART_RX: Waiting............ [0m
+
+[0;32mI (67630) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67630) UART_RX: Waiting............ [0m
+
+[0;32mI (67650) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67650) UART_RX: Waiting............ [0m
+
+[0;32mI (67670) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67670) UART_RX: Waiting............ [0m
+
+[0;32mI (67690) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67690) UART_RX: Waiting............ [0m
+
+[0;32mI (67710) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67710) UART_RX: Waiting............ [0m
+
+[0;32mI (67730) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67730) UART_RX: Waiting............ [0m
+
+[0;32mI (67750) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67750) UART_RX: Waiting............ [0m
+
+[0;32mI (67770) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67770) UART_RX: Waiting............ [0m
+
+[0;32mI (67790) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67790) UART_RX: Waiting............ [0m
+
+[0;32mI (67810) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67810) UART_RX: Waiting............ [0m
+
+[0;32mI (67830) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67830) UART_RX: Waiting............ [0m
+
+[0;32mI (67850) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67850) UART_RX: Waiting............ [0m
+
+[0;32mI (67870) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67870) UART_RX: Waiting............ [0m
+
+[0;32mI (67890) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67890) UART_RX: Waiting............ [0m
+
+[0;32mI (67910) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67910) UART_RX: Waiting............ [0m
+
+[0;32mI (67930) UART_RX: Received data: Sending......[0m
+b'Hello ESPCAM'
+���?@t�?
+[0;32mI (67930) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67930) UART_RX: Waiting............ [0m
+
+[0;32mI (67950) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67950) UART_RX: Waiting............ [0m
+
+[0;32mI (67970) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67970) UART_RX: Waiting............ [0m
+
+[0;32mI (67990) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (67990) UART_RX: Waiting............ [0m
+
+[0;32mI (68010) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68010) UART_RX: Waiting............ [0m
+
+[0;32mI (68030) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68030) UART_RX: Waiting............ [0m
+
+[0;32mI (68050) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68050) UART_RX: Waiting............ [0m
+
+[0;32mI (68070) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68070) UART_RX: Waiting............ [0m
+
+[0;32mI (68090) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68090) UART_RX: Waiting............ [0m
+
+[0;32mI (68110) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68110) UART_RX: Waiting............ [0m
+
+[0;32mI (68130) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68130) UART_RX: Waiting............ [0m
+
+[0;32mI (68150) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68150) UART_RX: Waiting............ [0m
+
+[0;32mI (68170) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68170) UART_RX: Waiting............ [0m
+
+[0;32mI (68190) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68190) UART_RX: Waiting............ [0m
+
+[0;32mI (68210) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68210) UART_RX: Waiting............ [0m
+
+[0;32mI (68230) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68230) UART_RX: Waiting............ [0m
+
+[0;32mI (68250) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68250) UART_RX: Waiting............ [0m
+
+[0;32mI (68270) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68270) UART_RX: Waiting............ [0m
+
+[0;32mI (68290) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68290) UART_RX: Waiting............ [0m
+
+[0;32mI (68310) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68310) UART_RX: Waiting............ [0m
+
+[0;32mI (68330) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68330) UART_RX: Waiting............ [0m
+
+[0;32mI (68350) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68350) UART_RX: Waiting............ [0m
+
+[0;32mI (68370) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68370) UART_RX: Waiting............ [0m
+
+[0;32mI (68390) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68390) UART_RX: Waiting............ [0m
+
+[0;32mI (68410) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68410) UART_RX: Waiting............ [0m
+
+[0;32mI (68430) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68430) UART_RX: Waiting............ [0m
+
+[0;32mI (68450) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68450) UART_RX: Waiting............ [0m
+
+[0;32mI (68470) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68470) UART_RX: Waiting............ [0m
+
+[0;32mI (68490) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68490) UART_RX: Waiting............ [0m
+
+[0;32mI (68510) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68510) UART_RX: Waiting............ [0m
+
+[0;32mI (68530) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68530) UART_RX: Waiting............ [0m
+
+[0;32mI (68550) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68550) UART_RX: Waiting............ [0m
+
+[0;32mI (68570) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68570) UART_RX: Waiting............ [0m
+
+[0;32mI (68590) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68590) UART_RX: Waiting............ [0m
+
+[0;32mI (68610) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68610) UART_RX: Waiting............ [0m
+
+[0;32mI (68630) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68630) UART_RX: Waiting............ [0m
+
+[0;32mI (68650) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68650) UART_RX: Waiting............ [0m
+
+[0;32mI (68670) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68670) UART_RX: Waiting............ [0m
+
+[0;32mI (68690) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68690) UART_RX: Waiting............ [0m
+
+[0;32mI (68710) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68710) UART_RX: Waiting............ [0m
+
+[0;32mI (68730) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68730) UART_RX: Waiting............ [0m
+
+[0;32mI (68750) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68750) UART_RX: Waiting............ [0m
+
+[0;32mI (68770) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68770) UART_RX: Waiting............ [0m
+
+[0;32mI (68790) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68790) UART_RX: Waiting............ [0m
+
+[0;32mI (68810) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68810) UART_RX: Waiting............ [0m
+
+[0;32mI (68830) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68830) UART_RX: Waiting............ [0m
+
+[0;32mI (68850) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68850) UART_RX: Waiting............ [0m
+
+[0;32mI (68870) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68870) UART_RX: Waiting............ [0m
+
+[0;32mI (68890) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68890) UART_RX: Waiting............ [0m
+
+[0;32mI (68910) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68910) UART_RX: Waiting............ [0m
+
+[0;32mI (68930) UART_RX: Received data: Sending......[0m
+b'Hello ESPCAM'
+���?@t�?
+[0;32mI (68930) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68930) UART_RX: Waiting............ [0m
+
+[0;32mI (68950) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68950) UART_RX: Waiting............ [0m
+
+[0;32mI (68970) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68970) UART_RX: Waiting............ [0m
+
+[0;32mI (68990) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (68990) UART_RX: Waiting............ [0m
+
+[0;32mI (69010) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69010) UART_RX: Waiting............ [0m
+
+[0;32mI (69030) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69030) UART_RX: Waiting............ [0m
+
+[0;32mI (69050) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69050) UART_RX: Waiting............ [0m
+
+[0;32mI (69070) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69070) UART_RX: Waiting............ [0m
+
+[0;32mI (69090) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69090) UART_RX: Waiting............ [0m
+
+[0;32mI (69110) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69110) UART_RX: Waiting............ [0m
+
+[0;32mI (69130) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69130) UART_RX: Waiting............ [0m
+
+[0;32mI (69150) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69150) UART_RX: Waiting............ [0m
+
+[0;32mI (69170) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69170) UART_RX: Waiting............ [0m
+
+[0;32mI (69190) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69190) UART_RX: Waiting............ [0m
+
+[0;32mI (69210) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69210) UART_RX: Waiting............ [0m
+
+[0;32mI (69230) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69230) UART_RX: Waiting............ [0m
+
+[0;32mI (69250) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69250) UART_RX: Waiting............ [0m
+
+[0;32mI (69270) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69270) UART_RX: Waiting............ [0m
+
+[0;32mI (69290) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69290) UART_RX: Waiting............ [0m
+
+[0;32mI (69310) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69310) UART_RX: Waiting............ [0m
+
+[0;32mI (69330) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69330) UART_RX: Waiting............ [0m
+
+[0;32mI (69350) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69350) UART_RX: Waiting............ [0m
+
+[0;32mI (69370) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69370) UART_RX: Waiting............ [0m
+
+[0;32mI (69390) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69390) UART_RX: Waiting............ [0m
+
+[0;32mI (69410) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69410) UART_RX: Waiting............ [0m
+
+[0;32mI (69430) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69430) UART_RX: Waiting............ [0m
+
+[0;32mI (69450) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69450) UART_RX: Waiting............ [0m
+
+[0;32mI (69470) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69470) UART_RX: Waiting............ [0m
+
+[0;32mI (69490) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69490) UART_RX: Waiting............ [0m
+
+[0;32mI (69510) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69510) UART_RX: Waiting............ [0m
+
+[0;32mI (69530) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69530) UART_RX: Waiting............ [0m
+
+[0;32mI (69550) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69550) UART_RX: Waiting............ [0m
+
+[0;32mI (69570) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69570) UART_RX: Waiting............ [0m
+
+[0;32mI (69590) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69590) UART_RX: Waiting............ [0m
+
+[0;32mI (69610) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69610) UART_RX: Waiting............ [0m
+
+[0;32mI (69630) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69630) UART_RX: Waiting............ [0m
+
+[0;32mI (69650) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69650) UART_RX: Waiting............ [0m
+
+[0;32mI (69670) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69670) UART_RX: Waiting............ [0m
+
+[0;32mI (69690) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69690) UART_RX: Waiting............ [0m
+
+[0;32mI (69710) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69710) UART_RX: Waiting............ [0m
+
+[0;32mI (69730) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69730) UART_RX: Waiting............ [0m
+
+[0;32mI (69750) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69750) UART_RX: Waiting............ [0m
+
+[0;32mI (69770) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69770) UART_RX: Waiting............ [0m
+
+[0;32mI (69790) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69790) UART_RX: Waiting............ [0m
+
+[0;32mI (69810) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69810) UART_RX: Waiting............ [0m
+
+[0;32mI (69830) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69830) UART_RX: Waiting............ [0m
+
+[0;32mI (69850) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69850) UART_RX: Waiting............ [0m
+
+[0;32mI (69870) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69870) UART_RX: Waiting............ [0m
+
+[0;32mI (69890) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69890) UART_RX: Waiting............ [0m
+
+[0;32mI (69910) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69910) UART_RX: Waiting............ [0m
+
+[0;32mI (69930) UART_RX: Received data: Sending......[0m
+b'Hello ESPCAM'
+���?@t�?
+[0;32mI (69930) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69930) UART_RX: Waiting............ [0m
+
+[0;32mI (69950) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69950) UART_RX: Waiting............ [0m
+
+[0;32mI (69970) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69970) UART_RX: Waiting............ [0m
+
+[0;32mI (69990) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (69990) UART_RX: Waiting............ [0m
+
+[0;32mI (70010) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70010) UART_RX: Waiting............ [0m
+
+[0;32mI (70030) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70030) UART_RX: Waiting............ [0m
+
+[0;32mI (70050) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70050) UART_RX: Waiting............ [0m
+
+[0;32mI (70070) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70070) UART_RX: Waiting............ [0m
+
+[0;32mI (70090) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70090) UART_RX: Waiting............ [0m
+
+[0;32mI (70110) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70110) UART_RX: Waiting............ [0m
+
+[0;32mI (70130) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70130) UART_RX: Waiting............ [0m
+
+[0;32mI (70150) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70150) UART_RX: Waiting............ [0m
+
+[0;32mI (70170) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70170) UART_RX: Waiting............ [0m
+
+[0;32mI (70190) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70190) UART_RX: Waiting............ [0m
+
+[0;32mI (70210) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70210) UART_RX: Waiting............ [0m
+
+[0;32mI (70230) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70230) UART_RX: Waiting............ [0m
+
+[0;32mI (70250) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70250) UART_RX: Waiting............ [0m
+
+[0;32mI (70270) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70270) UART_RX: Waiting............ [0m
+
+[0;32mI (70290) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70290) UART_RX: Waiting............ [0m
+
+[0;32mI (70310) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70310) UART_RX: Waiting............ [0m
+
+[0;32mI (70330) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70330) UART_RX: Waiting............ [0m
+
+[0;32mI (70350) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70350) UART_RX: Waiting............ [0m
+
+[0;32mI (70370) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70370) UART_RX: Waiting............ [0m
+
+[0;32mI (70390) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70390) UART_RX: Waiting............ [0m
+
+[0;32mI (70410) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70410) UART_RX: Waiting............ [0m
+
+[0;32mI (70430) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70430) UART_RX: Waiting............ [0m
+
+[0;32mI (70450) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70450) UART_RX: Waiting............ [0m
+
+[0;32mI (70470) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70470) UART_RX: Waiting............ [0m
+
+[0;32mI (70490) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70490) UART_RX: Waiting............ [0m
+
+[0;32mI (70510) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70510) UART_RX: Waiting............ [0m
+
+[0;32mI (70530) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70530) UART_RX: Waiting............ [0m
+
+[0;32mI (70550) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70550) UART_RX: Waiting............ [0m
+
+[0;32mI (70570) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70570) UART_RX: Waiting............ [0m
+
+[0;32mI (70590) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70590) UART_RX: Waiting............ [0m
+
+[0;32mI (70610) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70610) UART_RX: Waiting............ [0m
+
+[0;32mI (70630) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70630) UART_RX: Waiting............ [0m
+
+[0;32mI (70650) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70650) UART_RX: Waiting............ [0m
+
+[0;32mI (70670) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70670) UART_RX: Waiting............ [0m
+
+[0;32mI (70690) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70690) UART_RX: Waiting............ [0m
+
+[0;32mI (70710) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70710) UART_RX: Waiting............ [0m
+
+[0;32mI (70730) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70730) UART_RX: Waiting............ [0m
+
+[0;32mI (70750) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70750) UART_RX: Waiting............ [0m
+
+[0;32mI (70770) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70770) UART_RX: Waiting............ [0m
+
+[0;32mI (70790) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70790) UART_RX: Waiting............ [0m
+
+[0;32mI (70810) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70810) UART_RX: Waiting............ [0m
+
+[0;32mI (70830) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70830) UART_RX: Waiting............ [0m
+
+[0;32mI (70850) UART_TX: Sending............ Hello ESP32[0m
+
+[0;32mI (70850) UART_RX: Waiting............ [0m
+

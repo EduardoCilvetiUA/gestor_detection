@@ -1,0 +1,39 @@
+In file included from /home/laloc/esp/projects_tf/person_detection/managed_components/espressif__esp-tflite-micro/tensorflow/lite/micro/tflite_bridge/flatbuffer_conversions_bridge.h:19,
+                 from /home/laloc/esp/projects_tf/person_detection/managed_components/espressif__esp-tflite-micro/tensorflow/lite/micro/micro_allocator.h:26,
+                 from /home/laloc/esp/projects_tf/person_detection/managed_components/espressif__esp-tflite-micro/tensorflow/lite/micro/micro_interpreter.h:26,
+                 from /home/laloc/esp/projects_tf/person_detection/main/main_functions.cc:6:
+/home/laloc/esp/projects_tf/person_detection/managed_components/espressif__esp-tflite-micro/tensorflow/lite/core/api/flatbuffer_conversions.h: In member function 'T* tflite::BuiltinDataAllocator::AllocatePOD()':
+/home/laloc/esp/projects_tf/person_detection/managed_components/espressif__esp-tflite-micro/tensorflow/lite/core/api/flatbuffer_conversions.h:46:24: warning: 'template<class _Tp> struct std::is_pod' is deprecated: use 'is_standard_layout && is_trivial' instead [-Wdeprecated-declarations]
+   46 |     static_assert(std::is_pod<T>::value, "Builtin data structure must be POD.");
+      |                        ^~~~~~
+In file included from /home/laloc/esp/idf-tools/tools/xtensa-esp-elf/esp-14.2.0_20240906/xtensa-esp-elf/xtensa-esp-elf/include/c++/14.2.0/bits/stl_pair.h:60,
+                 from /home/laloc/esp/idf-tools/tools/xtensa-esp-elf/esp-14.2.0_20240906/xtensa-esp-elf/xtensa-esp-elf/include/c++/14.2.0/utility:69,
+                 from /home/laloc/esp/projects_tf/person_detection/managed_components/espressif__esp-tflite-micro/tensorflow/lite/core/c/common.h:1463,
+                 from /home/laloc/esp/projects_tf/person_detection/managed_components/espressif__esp-tflite-micro/tensorflow/lite/c/common.h:31,
+                 from /home/laloc/esp/projects_tf/person_detection/main/detection_responder.h:22,
+                 from /home/laloc/esp/projects_tf/person_detection/main/main_functions.cc:2:
+/home/laloc/esp/idf-tools/tools/xtensa-esp-elf/esp-14.2.0_20240906/xtensa-esp-elf/xtensa-esp-elf/include/c++/14.2.0/type_traits:890:5: note: declared here
+  890 |     is_pod
+      |     ^~~~~~
+/home/laloc/esp/idf-tools/tools/xtensa-esp-elf/esp-14.2.0_20240906/xtensa-esp-elf/bin/../lib/gcc/xtensa-esp-elf/14.2.0/../../../../xtensa-esp-elf/bin/ld: esp-idf/main/libmain.a(main_functions.cc.obj):(.literal._Z12processImagev+0x28): undefined reference to `_Z14uart_send_dataPKc'
+/home/laloc/esp/idf-tools/tools/xtensa-esp-elf/esp-14.2.0_20240906/xtensa-esp-elf/bin/../lib/gcc/xtensa-esp-elf/14.2.0/../../../../xtensa-esp-elf/bin/ld: esp-idf/main/libmain.a(main_functions.cc.obj):(.literal.loop+0x8): undefined reference to `_Z17uart_receive_datav'
+/home/laloc/esp/idf-tools/tools/xtensa-esp-elf/esp-14.2.0_20240906/xtensa-esp-elf/bin/../lib/gcc/xtensa-esp-elf/14.2.0/../../../../xtensa-esp-elf/bin/ld: esp-idf/main/libmain.a(main_functions.cc.obj): in function `_Z12processImagev':
+/home/laloc/esp/projects_tf/person_detection/main/main_functions.cc:35:(.text._Z12processImagev+0x6): undefined reference to `_Z14uart_send_dataPKc'
+/home/laloc/esp/idf-tools/tools/xtensa-esp-elf/esp-14.2.0_20240906/xtensa-esp-elf/bin/../lib/gcc/xtensa-esp-elf/14.2.0/../../../../xtensa-esp-elf/bin/ld: /home/laloc/esp/projects_tf/person_detection/main/main_functions.cc:40:(.text._Z12processImagev+0x2f): undefined reference to `_Z14uart_send_dataPKc'
+/home/laloc/esp/idf-tools/tools/xtensa-esp-elf/esp-14.2.0_20240906/xtensa-esp-elf/bin/../lib/gcc/xtensa-esp-elf/14.2.0/../../../../xtensa-esp-elf/bin/ld: /home/laloc/esp/projects_tf/person_detection/main/main_functions.cc:41:(.text._Z12processImagev+0x3b): undefined reference to `_Z14uart_send_dataPKc'
+/home/laloc/esp/idf-tools/tools/xtensa-esp-elf/esp-14.2.0_20240906/xtensa-esp-elf/bin/../lib/gcc/xtensa-esp-elf/14.2.0/../../../../xtensa-esp-elf/bin/ld: /home/laloc/esp/projects_tf/person_detection/main/main_functions.cc:48:(.text._Z12processImagev+0x5c): undefined reference to `_Z14uart_send_dataPKc'
+/home/laloc/esp/idf-tools/tools/xtensa-esp-elf/esp-14.2.0_20240906/xtensa-esp-elf/bin/../lib/gcc/xtensa-esp-elf/14.2.0/../../../../xtensa-esp-elf/bin/ld: /home/laloc/esp/projects_tf/person_detection/main/main_functions.cc:69:(.text._Z12processImagev+0xb1): undefined reference to `_Z14uart_send_dataPKc'
+/home/laloc/esp/idf-tools/tools/xtensa-esp-elf/esp-14.2.0_20240906/xtensa-esp-elf/bin/../lib/gcc/xtensa-esp-elf/14.2.0/../../../../xtensa-esp-elf/bin/ld: /home/laloc/esp/projects_tf/person_detection/main/main_functions.cc:69:(.text.setup+0x3): undefined reference to `_Z9uart_initv'
+/home/laloc/esp/idf-tools/tools/xtensa-esp-elf/esp-14.2.0_20240906/xtensa-esp-elf/bin/../lib/gcc/xtensa-esp-elf/14.2.0/../../../../xtensa-esp-elf/bin/ld: /home/laloc/esp/projects_tf/person_detection/main/main_functions.cc:73:(.text.setup+0xc): undefined reference to `_Z14uart_send_dataPKc'
+/home/laloc/esp/idf-tools/tools/xtensa-esp-elf/esp-14.2.0_20240906/xtensa-esp-elf/bin/../lib/gcc/xtensa-esp-elf/14.2.0/../../../../xtensa-esp-elf/bin/ld: esp-idf/main/libmain.a(main_functions.cc.obj): in function `_ZN6tflite22MicroMutableOpResolverILj7EE10AddBuiltinENS_15BuiltinOperatorERK16TFLMRegistrationPF12TfLiteStatusPKNS_8OperatorEPNS_13ErrorReporterEPNS_20BuiltinDataAllocatorEPPvE':
+/home/laloc/esp/projects_tf/person_detection/managed_components/espressif__esp-tflite-micro/tensorflow/lite/micro/micro_mutable_op_resolver.h:682:(.text.setup+0x4af): undefined reference to `_Z14uart_send_dataPKc'
+/home/laloc/esp/idf-tools/tools/xtensa-esp-elf/esp-14.2.0_20240906/xtensa-esp-elf/bin/../lib/gcc/xtensa-esp-elf/14.2.0/../../../../xtensa-esp-elf/bin/ld: esp-idf/main/libmain.a(main_functions.cc.obj): in function `loop':
+/home/laloc/esp/projects_tf/person_detection/managed_components/espressif__esp-tflite-micro/tensorflow/lite/micro/micro_mutable_op_resolver.h:686:(.text.loop+0x3): undefined reference to `_Z17uart_receive_datav'
+/home/laloc/esp/idf-tools/tools/xtensa-esp-elf/esp-14.2.0_20240906/xtensa-esp-elf/bin/../lib/gcc/xtensa-esp-elf/14.2.0/../../../../xtensa-esp-elf/bin/ld: esp-idf/main/libmain.a(main.cc.obj):(.literal._Z7tf_mainv+0x0): undefined reference to `_Z9uart_initv'
+/home/laloc/esp/idf-tools/tools/xtensa-esp-elf/esp-14.2.0_20240906/xtensa-esp-elf/bin/../lib/gcc/xtensa-esp-elf/14.2.0/../../../../xtensa-esp-elf/bin/ld: esp-idf/main/libmain.a(main.cc.obj): in function `_Z7tf_mainv':
+/home/laloc/esp/projects_tf/person_detection/main/main.cc:26:(.text._Z7tf_mainv+0x6): undefined reference to `_Z9uart_initv'
+collect2: error: ld returned 1 exit status
+make[3]: *** [CMakeFiles/person_detection.elf.dir/build.make:586: person_detection.elf] Error 1
+make[2]: *** [CMakeFiles/Makefile2:2621: CMakeFiles/person_detection.elf.dir/all] Error 2
+make[1]: *** [CMakeFiles/Makefile2:2521: CMakeFiles/flash.dir/rule] Error 2
+make: *** [Makefile:286: flash] Error 2
