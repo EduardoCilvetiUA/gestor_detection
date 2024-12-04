@@ -41,5 +41,5 @@ void RespondToDetection(float* sign_score, const char* kCategoryLabels[]) {
   } else {
     MicroPrintf("No sign detected");
   }
-  MicroPrintf("abierta: %f, apuntar: %f, cero: %f, chill: %f, perro: %f, rock: %f", sign_score[0], sign_score[1], sign_score[2], sign_score[3], sign_score[4], sign_score[5]);
+  MicroPrintf("L: %f, abierta: %f, cero: %f, chill: %f, rock: %f, suerte: %f", sign_score[0], sign_score[1], sign_score[2], sign_score[3], sign_score[4], sign_score[5]);
 }
